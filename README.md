@@ -1,5 +1,7 @@
 # Estudos-Git-GitHub-e-GitLab-Lab
 
+Repositório para anotações e consultas de uso e diretrizes Git.
+
 Links Úteis
 
 Download Git (https://git-scm.com/downloads)<br>
